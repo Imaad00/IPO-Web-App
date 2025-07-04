@@ -22,7 +22,6 @@ A Django-based web application to explore, list, and manage IPOs (Initial Public
 - Python 3.12
 - SQLite3 (default DB)
 - HTML + CSS + Bootstrap Icons
-- WhiteNoise (for static file serving)
 
 ---
 
